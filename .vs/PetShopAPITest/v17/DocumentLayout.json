@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Enghouse\\Csharp\\ProjectsVS2022\\PetShopAPITest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{412FC5A5-AC73-437E-9997-6C6D5156DF89}|PetShopAPITest.csproj|c:\\enghouse\\csharp\\projectsvs2022\\petshopapitest\\data\\testpetdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{412FC5A5-AC73-437E-9997-6C6D5156DF89}|PetShopAPITest.csproj|solutionrelative:data\\testpetdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{412FC5A5-AC73-437E-9997-6C6D5156DF89}|PetShopAPITest.csproj|c:\\enghouse\\csharp\\projectsvs2022\\petshopapitest\\petapi_wronginputtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{412FC5A5-AC73-437E-9997-6C6D5156DF89}|PetShopAPITest.csproj|solutionrelative:petapi_wronginputtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{412FC5A5-AC73-437E-9997-6C6D5156DF89}|PetShopAPITest.csproj|c:\\enghouse\\csharp\\projectsvs2022\\petshopapitest\\petapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{412FC5A5-AC73-437E-9997-6C6D5156DF89}|PetShopAPITest.csproj|solutionrelative:petapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{412FC5A5-AC73-437E-9997-6C6D5156DF89}|PetShopAPITest.csproj|c:\\enghouse\\csharp\\projectsvs2022\\petshopapitest\\baseapiclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{412FC5A5-AC73-437E-9997-6C6D5156DF89}|PetShopAPITest.csproj|solutionrelative:baseapiclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{412FC5A5-AC73-437E-9997-6C6D5156DF89}|PetShopAPITest.csproj|c:\\enghouse\\csharp\\projectsvs2022\\petshopapitest\\data\\petinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{412FC5A5-AC73-437E-9997-6C6D5156DF89}|PetShopAPITest.csproj|solutionrelative:data\\petinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{412FC5A5-AC73-437E-9997-6C6D5156DF89}|PetShopAPITest.csproj|c:\\enghouse\\csharp\\projectsvs2022\\petshopapitest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{412FC5A5-AC73-437E-9997-6C6D5156DF89}|PetShopAPITest.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PetAPI_WrongInputTests.cs",
+              "DocumentMoniker": "C:\\Enghouse\\Csharp\\ProjectsVS2022\\PetShopAPITest\\PetAPI_WrongInputTests.cs",
+              "RelativeDocumentMoniker": "PetAPI_WrongInputTests.cs",
+              "ToolTip": "C:\\Enghouse\\Csharp\\ProjectsVS2022\\PetShopAPITest\\PetAPI_WrongInputTests.cs",
+              "RelativeToolTip": "PetAPI_WrongInputTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T16:39:40.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestPetData.cs",
+              "DocumentMoniker": "C:\\Enghouse\\Csharp\\ProjectsVS2022\\PetShopAPITest\\Data\\TestPetData.cs",
+              "RelativeDocumentMoniker": "Data\\TestPetData.cs",
+              "ToolTip": "C:\\Enghouse\\Csharp\\ProjectsVS2022\\PetShopAPITest\\Data\\TestPetData.cs",
+              "RelativeToolTip": "Data\\TestPetData.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAAANMAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T16:35:16.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PetAPITests.cs",
+              "DocumentMoniker": "C:\\Enghouse\\Csharp\\ProjectsVS2022\\PetShopAPITest\\PetAPITests.cs",
+              "RelativeDocumentMoniker": "PetAPITests.cs",
+              "ToolTip": "C:\\Enghouse\\Csharp\\ProjectsVS2022\\PetShopAPITest\\PetAPITests.cs",
+              "RelativeToolTip": "PetAPITests.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAgwIQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T14:38:33.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseApiClass.cs",
+              "DocumentMoniker": "C:\\Enghouse\\Csharp\\ProjectsVS2022\\PetShopAPITest\\BaseApiClass.cs",
+              "RelativeDocumentMoniker": "BaseApiClass.cs",
+              "ToolTip": "C:\\Enghouse\\Csharp\\ProjectsVS2022\\PetShopAPITest\\BaseApiClass.cs",
+              "RelativeToolTip": "BaseApiClass.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAApwDYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T14:40:20.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PetInfo.cs",
+              "DocumentMoniker": "C:\\Enghouse\\Csharp\\ProjectsVS2022\\PetShopAPITest\\Data\\PetInfo.cs",
+              "RelativeDocumentMoniker": "Data\\PetInfo.cs",
+              "ToolTip": "C:\\Enghouse\\Csharp\\ProjectsVS2022\\PetShopAPITest\\Data\\PetInfo.cs",
+              "RelativeToolTip": "Data\\PetInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T14:39:43.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Enghouse\\Csharp\\ProjectsVS2022\\PetShopAPITest\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Enghouse\\Csharp\\ProjectsVS2022\\PetShopAPITest\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-22T14:41:24.015Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
